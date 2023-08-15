@@ -1,0 +1,72 @@
+.onboarding-portal-login {
+  margin: 0;
+    position: absolute;
+    top: 75px;
+    left: 582px;
+    font-size: var(--heading-1-size);
+    font-weight: 700;
+    font-family: inherit;
+}
+.step-into-a {
+  position: absolute;
+    top: 102px;
+    left: 582px;
+    display: inline-block;
+    width: 362px;
+}
+.group-2 {
+  position: absolute;
+    top: 0;
+    left: calc(50% - 182px);
+    background-color: rgb(255 255 255 / 40%);
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
+    width: 364px;
+    height: 98px;
+}
+.group-1 {
+  position: absolute;
+  top: 38px;
+  left: calc(50% - 153px);
+  background-color: #fff;
+  width: 305px;
+  height: 38px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 147px;
+  left: calc(50% - 182px);
+  width: 364px;
+  height: 98px;
+  cursor: pointer;
+}
+.enter-your-register {
+  position: absolute;
+  top: 168px;
+  left: 608px;
+  display: inline-block;
+  width: 156px;
+}
+.untitled-design-1-2 {
+  position: absolute;
+  top: 223px;
+  left: calc(50% - 188px);
+  width: 383px;
+  height: 137px;
+  object-fit: cover;
+}
+.webb-pattern {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-image: url(C:\Users\Lenovo\Downloads\locofy-react-project\public\yFk2QjB.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--text-size);
+  color: var(--color-darkslategray);
+  font-family: var(--text);
+}
+
+
